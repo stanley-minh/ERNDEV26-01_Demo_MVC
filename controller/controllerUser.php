@@ -12,5 +12,5 @@ function displayUser(){
     include('./view/viewHeader.php');
     include('./view/viewArticle.php');
     include('./view/viewFooter.php');
-    include('./view/viewUser.php')
+    include('./view/viewUser.php');
 }
